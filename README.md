@@ -1,1 +1,1 @@
-# project-pricing-panel
+# Pricing Panel
